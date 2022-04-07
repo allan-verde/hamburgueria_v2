@@ -8,13 +8,6 @@ O site visa a compra de lanches disponiveis na vitrine com possibilidade de adi√
 #### Ferramentas utilizadas:
 * React.Js, Typescript, Context API, Chakra UI, React-icons, React-router-dom
 
-#### Link do deploy no vercel: <a target="_blank" href="https://entrega-construa-um-jogo-de-azar-sprint-3-allan-verde.vercel.app/">ca√ßa palavras</a>
+#### Link do deploy no vercel: <a target="_blank" href="https://react-entrega-s5-hamburgueria-2-0-com-typescript-js-allan-verde.vercel.app/">Hamburgueria</a>
 
-<div>
-  <img src="" alt=""/>
-  <img src="" alt=""/>
-</div>
-<div>
-  <img src=""/>
-</div>
 
